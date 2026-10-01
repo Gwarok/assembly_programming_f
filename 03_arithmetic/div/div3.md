@@ -1,0 +1,1 @@
+DIV doesn't set/clear the arithmetic flags, leaving the flag status as undefined
